@@ -17,3 +17,6 @@ pids
 
 # Packages
 node_modules/
+
+# IDE
+.idea/
