@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "module": "ES2022",
+    "moduleResolution": "Bundler",
+    "sourceMap": true,
+    "outDir": "dist",
+    "allowJs": true
+  },
+  "include": ["index.js"]
+}
